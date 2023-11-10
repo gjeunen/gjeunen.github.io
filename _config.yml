@@ -62,6 +62,8 @@ menu:
     url:               /about/
   - title:             eDNA-tutorials
     url:               /ednatutorials/
+  - title:             HKU workshop
+    url:               /hku2023eDNAworkshop/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
