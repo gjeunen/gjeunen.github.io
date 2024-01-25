@@ -58,12 +58,16 @@ menu:
     url:               /home/
   - title:             Research
     url:               /research/
+  - title:             People
+    url:               /people/
+  - title:             Publications
+    url:               /publications/
+  - title:             Software packages
+    url:               /softwarepackages/
+  - title:             Tutorials
+    url:               /tutorials/
   - title:             Documentation
     url:               /docs/
-  - title:             About
-    url:               /about/
-  - title:             eDNA-tutorials
-    url:               /ednatutorials/
   - title:             HKU workshop
     url:               /hku2023eDNAworkshop/
 
