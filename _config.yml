@@ -56,8 +56,8 @@ author:
 menu:
   - title:             Home
     url:               /home/
-  - title:             Example
-    url:               /example/
+  - title:             Research
+    url:               /research/
   - title:             Documentation
     url:               /docs/
   - title:             About
