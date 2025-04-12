@@ -68,8 +68,10 @@ menu:
     url:               /tutorials/
   - title:             Documentation
     url:               /docs/
-  - title:             HKU workshop
+  - title:             VSEARCH tutorial
     url:               /hku2023eDNAworkshop/
+  - title:             DADA2 tutorial
+    url:               /dada2-tutorial/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
